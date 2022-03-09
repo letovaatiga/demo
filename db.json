@@ -1,14 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "results": [
+        {
+            "id": 1,
+            "title": "AzerTelecom’s digital infrastructure project along the bottom of the Caspian Sea discussed at “Turkmentel 2020” conference",
+            "date": "20 may 2021",
+            "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+            "id": 2,
+            "title": "AzerTelecom’s digital infrastructure project along the bottom of the Caspian Sea discussed at “Turkmentel 2020” conference",
+            "date": "20 may 2021",
+            "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+            "id": 3,
+            "title": "AzerTelecom’s digital infrastructure project along the bottom of the Caspian Sea discussed at “Turkmentel 2020” conference",
+            "date": "20 may 2021",
+            "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+            "id": 4,
+            "title": "AzerTelecom’s digital infrastructure project along the bottom of the Caspian Sea discussed at “Turkmentel 2020” conference",
+            "date": "20 may 2021",
+            "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        }
+    ]
 }
