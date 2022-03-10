@@ -2,27 +2,22 @@
     "news": [
         {
             "id": 1,
-            "title": "AzerTelecom’s digital infrastructure project along the bottom of the Caspian Sea discussed at “Turkmentel 2020” conference",
-            "date": "20 may 2021",
-            "image": "https://raw.githubusercontent.com/letovaatiga/demo/master/news.jpg"
-        },
-        {
-            "id": 2,
-            "title": "news2",
-            "date": "21 may 2021",
-            "image": "https://raw.githubusercontent.com/letovaatiga/demo/master/news.jpg"
-        },
-        {
-            "id": 3,
-            "title": "news3",
-            "date": "22 may 2021",
-            "image": "https://raw.githubusercontent.com/letovaatiga/demo/master/news.jpg"
-        },
-        {
-            "id": 4,
-            "title": "news4",
-            "date": "23 may 2021",
-            "image": "https://raw.githubusercontent.com/letovaatiga/demo/master/news.jpg"
+            "title": "Rick Sanchez",
+            "status": "Alive",
+            "species": "Human",
+            "type": "",
+            "gender": "Male",
+            "origin": {
+                "name": "Earth (C-137)",
+                "url": "https://rickandmortyapi.com/api/location/1"
+            },
+            "location": {
+                "name": "Citadel of Ricks",
+                "url": "https://rickandmortyapi.com/api/location/3"
+            },
+            "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+            "url": "https://rickandmortyapi.com/api/character/1",
+            "created": "2017-11-04T18:48:46.250Z"
         }
     ]
 }
